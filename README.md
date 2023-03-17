@@ -13,5 +13,5 @@ You can download a copy from the repo.
 You can use this application to view postings and post blogs yourself
 
 ## Links
-Github Account: [OdeToTheCode](https://github.com/OdeToTheCode/)
-Deploy: [Tech blog](https://drive.google.com/file/d/1OZHA3Sp6PJsEnB9qvjILPSCPQr1nkWNX/view?usp=sharing)
+Github Account: [OdeToTheCode](https://github.com/OdeToTheCode/tech-blog)
+Deploy: [Tech blog](https://odetothecode.github.io/tech-blog/)
